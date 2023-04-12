@@ -5,11 +5,12 @@
     <vendor>xenoxinius</vendor>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.jetbrains.php</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.xenoxinius.stibskitheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="com.github.xenoxinius.stibskitheme" path="/theme/mytheme.theme.json"></themeProvider>
     </extensions>
 
     <applicationListeners>

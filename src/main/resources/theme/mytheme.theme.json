@@ -1,0 +1,19 @@
+{
+  "author": "Steve",
+  "dark": true,
+  "name": "Stibs First",
+  "editorScheme": "theme/mytheme.xml",
+  "colors": {
+    "purpleLight": "#705E74",
+    "purpleDark": "#38364A",
+    "purpleVeryLight": "#81759C",
+    "lightBlue": "#9DA2BE",
+    "darkGray": "#1C1C21"
+
+  },
+  "ui": {
+    "Button": {
+      "background": "purpleDark"
+    }
+  }
+}
