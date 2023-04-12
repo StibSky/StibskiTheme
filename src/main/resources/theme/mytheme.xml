@@ -181,7 +181,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="705e74" />
+        <option name="FOREGROUND" value="81759c" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -203,7 +203,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="749ded" />
+        <option name="FOREGROUND" value="e39218" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -257,7 +257,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="72cfd6" />
+        <option name="FOREGROUND" value="81759c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -269,7 +269,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="7ec482" />
+        <option name="FOREGROUND" value="9da2be" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -504,11 +504,6 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fa5762" />
-      </value>
-    </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="72cfd6" />
       </value>
     </option>
   </attributes>

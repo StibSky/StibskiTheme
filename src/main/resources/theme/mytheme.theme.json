@@ -13,7 +13,14 @@
   },
   "ui": {
     "Button": {
-      "background": "purpleDark"
+      "startBackground": "lightBlue",
+      "endBackground": "purpleDark"
     }
+  },
+  "background": {
+    "anchor": "bottom_right",
+    "fill": "plain",
+    "transparency": 5,
+    "image": "/images/background.png"
   }
 }
